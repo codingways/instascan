@@ -1,4 +1,4 @@
-require('babel-polyfill');
+//require('babel-polyfill');
 require('webrtc-adapter');
 
 var Instascan = {
